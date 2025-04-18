@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+matplotlib==3.7.1
+numpy==1.24.3
+seaborn==0.12.2 
